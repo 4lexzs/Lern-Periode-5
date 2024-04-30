@@ -17,10 +17,18 @@
 
 ## 30.4.2024
 
-- [ ] Erste Schritte für HTML zu kennen
-- [ ] Erste zeilen programmieren
-- [ ] Text schon auf die Webseite zu haben.
+- [X] Erste Schritte für HTML zu kennen
+- [X] Erste zeilen programmieren
+- [X] Text schon auf die Webseite zu haben.
 
-✍️ Heute habe ich... (50-100 Wörter)
+✍️ Ich habe heute sehr viel machen können, habe ab und zu fehler gehabt aber konnte sie meistens beheben. Ich musste einmal emin Code von neu anfangen, weil ich etwas falsch gemcaht hatte und habe lieber das ganze neu gemacht.
 
-☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
+## 06.05.2024
+
+- [ ] Alle informationen der Hauptseite hinzufügen
+- [ ] Zu jeden button eine neue Seite erstellen
+- [ ] - das gleiche
+- [ ] design machen
+
+  
+

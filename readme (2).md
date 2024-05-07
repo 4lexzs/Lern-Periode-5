@@ -23,10 +23,15 @@
 
 ✍️ Ich habe heute sehr viel machen können, habe ab und zu fehler gehabt aber konnte sie meistens beheben. Ich musste einmal emin Code von neu anfangen, weil ich etwas falsch gemcaht hatte und habe lieber das ganze neu gemacht.
 
-## 06.05.2024
+## 07.05.2024
 
-- [ ] Am Modul 293 weiter arbeiten
-- [ ] wenigstend 3 Aufgaben fetig machen
+- [X] Am Modul 293 weiter arbeiten
+- [X] wenigstend 3 Aufgaben fetig machen
 
-  
+✍️ Ich habe heute am Modul 293 gearbeitet und habe viel mehr über HTML und CSS gelernt, im Modul werden auch viel Aufgaben und Fragen gestellt, welche mir helfen das System besser und schneller zu verstehen. Ich bin sehr zufrieden mit meiner Leistung und freue mcih schon weiter mit HTML zu arbeiten, und bald ganz alleine und ohne hilfe eine Website erestellen zu können.
+
+## 14.05.2024
+
+- [ ] Weiter am Modul 293 arbeiten
+- [ ] 2-3 Aufagben fertig machen
 

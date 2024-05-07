@@ -25,10 +25,8 @@
 
 ## 06.05.2024
 
-- [ ] Alle informationen der Hauptseite hinzufügen
-- [ ] Zu jeden button eine neue Seite erstellen
-- [ ] - das gleiche
-- [ ] design machen
+- [ ] Am Modul 293 weiter arbeiten
+- [ ] wenigstend 3 Aufgaben fetig machen
 
   
 

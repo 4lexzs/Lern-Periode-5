@@ -32,6 +32,8 @@
 
 ## 14.05.2024
 
-- [ ] Weiter am Modul 293 arbeiten
-- [ ] 2-3 Aufagben fertig machen
+- [ ] Bei meiner Webseite meine Kontakt daten hinzufügen
+- [ ] Das obere Rand meine hompage mit design gestalten
+- [ ] Die buttons am oberen Rand eine Funktionalität geben
+- [ ] Von den Button eine Seite gestalten
 

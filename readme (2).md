@@ -41,9 +41,12 @@
 
 ## 21.05.2024
 
-- [ ] 7705 fertig bearbeiten
-- [ ] 7706 fertig bearbeiten
-- [ ] 7707 fertig bearbeiten
-- [ ] 7708 fertig bearbeiten
+- [X] 7705 fertig bearbeiten
+- [X] 7706 fertig bearbeiten
+- [X] 7707 fertig bearbeiten
+- [X] 7708 fertig bearbeiten
 
+✍️ Ich kam heute sehr weit voran, ich habe mich entschieden heute am Modul zuarbeiten, weil ich gemerkt habe das ich realtiv langsam beo den Aufgaben Unterwegs bin.
+Ich konnte mit allem fertig was ich mir vorgestellt hatte und bin zufrieden mit meiner heutigen leistung.
 
+# 28.05.2024

@@ -32,8 +32,18 @@
 
 ## 14.05.2024
 
-- [ ] Bei meiner Webseite meine Kontakt daten hinzufügen
-- [ ] Das obere Rand meine hompage mit design gestalten
-- [ ] Die buttons am oberen Rand eine Funktionalität geben
-- [ ] Von den Button eine Seite gestalten
+- [X] Bei meiner Webseite meine Kontakt daten hinzufügen
+- [X] Das obere Rand meine hompage mit design gestalten
+- [X] Die buttons am oberen Rand eine Funktionalität geben
+- [X] Von den Button eine Seite gestalten
+
+✍️ Ich konnte heute sehr gut arbeitne da ich mich sehr wohl in meine Umgebung füllte. ICh habge vieles von HTML gelernt, ich finde diese form von Programmieren sehr spannend.
+
+## 21.05.2024
+
+- [ ] 7705 fertig bearbeiten
+- [ ] 7706 fertig bearbeiten
+- [ ] 7707 fertig bearbeiten
+- [ ] 7708 fertig bearbeiten
+
 

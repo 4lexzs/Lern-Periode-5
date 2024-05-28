@@ -55,16 +55,18 @@ Ich konnte mit allem fertig was ich mir vorgestellt hatte und bin zufrieden mit 
 - [X] Eine Verknüpfung zwischen den Seiten erschaffen.
 - [X] Auf der Homepage weiter Informationen, Bilder hinzufügen.
 
-✍️ Ich konnte mich heute sehr gut konzentrieren und alle meine Arbeitspakete erledigen. Vielleicht hätte ich sogar noch mehr erledigen können, aber ich musste lange darüber nachdenken, was als nächstes zu tun ist. Ich werde nächste Woche Ideen sammeln, damit ich bereits im Voraus weiss, was ich zu tun habe.
+✍️ Ich konnte mich heute sehr gut konzentrieren und alle meine Arbeitspakete erledigen. 
+Vielleicht hätte ich sogar noch mehr erledigen können, aber ich musste lange darüber nachdenken, was als nächstes zu tun ist. 
+Ich werde nächste Woche Ideen sammeln, damit ich bereits im Voraus weiss, was ich zu tun habe.
 
 Die Letzten Wochen habe ich immer Vergessen mein Eintrag auf Github zu schreiben. Ich glaube es liegt an nichts, ich muss mich einfach besser organisieren.
 
 ## 4.6
 
 - [ ] Die Seite schön gestalten
-- [ ] weiter an der homepage arbeiten
-- [ ] 
-- [ ]
+- [ ] weiter an der homepage arbeiten bzw. das Designeverbessern
+- [ ] alle mögliche Bilder von Keyboard hinein kopieren
+- [ ] das gleicehe aber von Switches
 
 
 

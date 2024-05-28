@@ -50,3 +50,9 @@
 Ich konnte mit allem fertig was ich mir vorgestellt hatte und bin zufrieden mit meiner heutigen leistung.
 
 # 28.05.2024
+- [ ] Für jeden Button eine eingen Seite coden (grob).
+- [ ] Die Seiten jeweils designen (grob).
+- [ ] Eine Verknüpfung zwischen den Seiten erschaffen.
+- [ ] Auf der Homepage weiter Informationen, Bilder hinzufügen.
+
+

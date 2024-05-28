@@ -23,7 +23,7 @@
 
 ✍️ Ich habe heute sehr viel machen können, habe ab und zu fehler gehabt aber konnte sie meistens beheben. Ich musste einmal emin Code von neu anfangen, weil ich etwas falsch gemcaht hatte und habe lieber das ganze neu gemacht.
 
-## 07.05.2024
+## 07.05.2024 
 
 - [X] Am Modul 293 weiter arbeiten
 - [X] wenigstend 3 Aufgaben fetig machen
@@ -50,13 +50,21 @@
 Ich konnte mit allem fertig was ich mir vorgestellt hatte und bin zufrieden mit meiner heutigen leistung.
 
 ## 28.05.2024
-- [ ] Für jeden Button eine eingen Seite coden (grob).
-- [ ] Die Seiten jeweils designen (grob).
-- [ ] Eine Verknüpfung zwischen den Seiten erschaffen.
-- [ ] Auf der Homepage weiter Informationen, Bilder hinzufügen.
+- [X] Für jeden Button eine eingen Seite coden (grob).
+- [X] Die Seiten jeweils designen (grob).
+- [X] Eine Verknüpfung zwischen den Seiten erschaffen.
+- [X] Auf der Homepage weiter Informationen, Bilder hinzufügen.
+
+✍️ Ich konnte mich heute sehr gut konzentrieren und alle meine Arbeitspakete erledigen. Vielleicht hätte ich sogar noch mehr erledigen können, aber ich musste lange darüber nachdenken, was als nächstes zu tun ist. Ich werde nächste Woche Ideen sammeln, damit ich bereits im Voraus weiss, was ich zu tun habe.
+
+Die Letzten Wochen habe ich immer Vergessen mein Eintrag auf Github zu schreiben. Ich glaube es liegt an nichts, ich muss mich einfach besser organisieren.
 
 ## 4.6
 
-Heute vergesse ich meine AP nicht!!!
+- [ ] Die Seite schön gestalten
+- [ ] weiter an der homepage arbeiten
+- [ ] 
+- [ ]
+
 
 

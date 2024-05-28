@@ -1,0 +1,92 @@
+/* style.css */
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+    --my-pink: #ffe4e1;
+
+}
+
+.navbar {
+    background-color: #ffffff;
+    padding: 10px 0;
+    text-align: center;
+}
+
+.navbar .logo img {
+    width: 175px;
+}
+
+nav {
+    background-color: #555;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+}
+
+nav ul li {
+    margin: 0 15px
+    /* hide bullet points */
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 16px;
+}
+
+nav ul li a:hover {
+    text-decoration: underline;
+}
+
+section {
+    padding: 20px;
+    text-align: center;
+}
+
+section#home {
+    background-color: #e2e2e2;
+}
+
+section#products {
+    background-color: #d1e7dd;
+}
+
+section#about {
+    background-color: #fef3c7;
+}
+
+section#contact {
+    background-color: var(--my-pink);
+}
+
+h1, h2 {
+    color: #333;
+}
+
+.product {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}

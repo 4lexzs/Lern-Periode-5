@@ -33,11 +33,12 @@ nav ul {
     margin: 0;
     display: flex;
     justify-content: center;
+    
 }
 
 nav ul li {
     margin: 0 15px
-    /* hide bullet points */
+    
 }
 
 nav ul li a {
@@ -69,6 +70,12 @@ section#about {
 
 section#contact {
     background-color: var(--my-pink);
+}
+
+section ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
 }
 
 h1, h2 {

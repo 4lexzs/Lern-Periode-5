@@ -63,10 +63,11 @@ Die Letzten Wochen habe ich immer Vergessen mein Eintrag auf Github zu schreiben
 
 ## 4.6
 
-- [ ] Die Seite schön gestalten
-- [ ] weiter an der homepage arbeiten bzw. das Designeverbessern
-- [ ] alle mögliche Bilder von Keyboard hinein kopieren
-- [ ] das gleicehe aber von Switches
+- [X] Die Seite schön gestalten
+- [X] weiter an der homepage arbeiten bzw. das Designeverbessern
+- [X] alle mögliche Bilder von Keyboard hinein kopieren
+- [X] das gleiche aber von Switches
 
-
+Ich habe heute gut arbeiten können. Ich war konzentriert, aber konnte nicht alle Arbeitspakete vollständig erledigen, weil sie zu lange waren und ich nicht genug Zeit hatte
+um sie zu erledigen.
 

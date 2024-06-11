@@ -61,7 +61,7 @@ Ich werde nächste Woche Ideen sammeln, damit ich bereits im Voraus weiss, was i
 
 Die Letzten Wochen habe ich immer Vergessen mein Eintrag auf Github zu schreiben. Ich glaube es liegt an nichts, ich muss mich einfach besser organisieren.
 
-## 4.6
+## 04.06.2024
 
 - [X] Die Seite schön gestalten
 - [X] weiter an der homepage arbeiten bzw. das Designeverbessern
@@ -70,4 +70,11 @@ Die Letzten Wochen habe ich immer Vergessen mein Eintrag auf Github zu schreiben
 
 Ich habe heute gut arbeiten können. Ich war konzentriert, aber konnte nicht alle Arbeitspakete vollständig erledigen, weil sie zu lange waren und ich nicht genug Zeit hatte
 um sie zu erledigen.
+
+## 11.06.2024
+
+- [ ] Keyboard und Switches Bilder in einen Folder herunterladen
+- [ ] Text für die Keyboard schreiben.
+- [ ] Bilder hinzufügen (Keyboards)
+- [ ] Bilder hinzufügen (Switches)
 

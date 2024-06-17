@@ -73,8 +73,17 @@ um sie zu erledigen.
 
 ## 11.06.2024
 
-- [ ] Keyboard und Switches Bilder in einen Folder herunterladen
-- [ ] Text für die Keyboard schreiben.
-- [ ] Bilder hinzufügen (Keyboards)
-- [ ] Bilder hinzufügen (Switches)
+- [X] Keyboard und Switches Bilder in einen Folder herunterladen
+- [X] Text für die Keyboard schreiben.
+- [X] Bilder hinzufügen (Keyboards)
+- [X] Bilder hinzufügen (Switches)
+
+Ich konnte heut sehr viel arbeiten und habe vieles geschafft, bei den  2 letzten Arbeitpackete konnte ich nicht richtig fertig machen, weil ich keine weiteren Bilder gefunden hatte, ich bin aber nach der Suche von anderen Bilder. Sonst konnte ich sehr gut weiter Arbeiten und bin auch zufrieden mit meiner Leistung.
+
+## 18.06.2007
+
+- [ ] Mockup für Startseite fertig machen
+- [ ] Mockup für Kontaktseite fertig machen
+- [ ] Mockup für die dritte Seite (weiss noch nicht genau was)
+- [ ] Pflichtenheft fertig stellen
 

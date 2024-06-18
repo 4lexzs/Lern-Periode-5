@@ -82,8 +82,10 @@ Ich konnte heut sehr viel arbeiten und habe vieles geschafft, bei den  2 letzten
 
 ## 18.06.2007
 
-- [ ] Mockup für Startseite fertig machen
-- [ ] Mockup für Kontaktseite fertig machen
-- [ ] Mockup für die dritte Seite (weiss noch nicht genau was)
-- [ ] Pflichtenheft fertig stellen
+- [X] Mockup für Startseite fertig machen
+- [X] Mockup für Kontaktseite fertig machen
+- [X] Mockup für die dritte Seite (weiss noch nicht genau was)
+- [X] Pflichtenheft fertig stellen
+
+Ich habe heute sehr gut arbeiten können, ich bin sehr zufrieden mit meiner Leistung, ich bin sogar weiter gekommen als eigentlich geplant.
 

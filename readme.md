@@ -89,3 +89,10 @@ Ich konnte heut sehr viel arbeiten und habe vieles geschafft, bei den  2 letzten
 
 Ich habe heute sehr gut arbeiten können, ich bin sehr zufrieden mit meiner Leistung, ich bin sogar weiter gekommen als eigentlich geplant.
 
+## 25.06.2024
+
+- [ ] Startseite fertig machen
+- [ ] Geschichte Seite informationen und Bilder hinzufügen
+- [ ] das 2te wird etwas länger dauern als nur 1 Arbeitpacket
+- [ ] mit der Seite Sehenswürdigkeiten anfangen
+

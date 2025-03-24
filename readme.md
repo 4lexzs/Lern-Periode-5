@@ -1,7 +1,7 @@
 # Lern-Periode 5
 
 23.4 bis 25.6.2024
-
+[socketxp connect http://localhost:8080](https://alexpau17062007-de6ec36d-0dec-4337-b2f2-9342fff8b728.socketxp.com/)
 ## Grob-Planung
 
 1. Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark; in welchen sind die ungenügend? Welche davon sind besonders wichtig?
